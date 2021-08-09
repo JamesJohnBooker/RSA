@@ -1,2 +1,2 @@
 # RSA
-This script can be used to perform RSA key generation, encryption and decryption
+This script performs RSA key generation and can also be used to perform RSA encryption and decryption.
